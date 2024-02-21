@@ -9,7 +9,7 @@ models. All data was generated through webscraping.
 
 ## Demo
 
-Check out the demo video: https://www.youtube.com/watch?v=s_m6BytXyvA!
+Check out our demo video: https://www.youtube.com/watch?v=s_m6BytXyvA!
 
 ## Team
 
